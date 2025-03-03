@@ -1,4 +1,5 @@
-<?php
+
+.e<?php
 //1 buah variabel dengan 2 digit terakhir NPM saya
 $angka=39;
 echo "Aku adalah angka <b>$angka</b><br>";
