@@ -14,7 +14,7 @@ $film = [
         "tahun" => "2007",
         "genre" => "Horor, Action",
         "durasi" => "90 menit",
-        "sutradara" => "Jūnichi-Hayama.jpg"
+        "sutradara" => "Jūnichi-Hayama.PNG"
     ],
     [
         "judul" => "Back To the Future",
@@ -30,7 +30,7 @@ $film = [
         "tahun" => "1976",
         "genre" => "Drama, Action",
         "durasi" => "116 menit",
-        "sutradara" => "John G. Avildsen.jpg"
+        "sutradara" => "John-G-Avildsen.jpg"
     ],
     [
         "judul" => "ROCKY II",
@@ -38,7 +38,7 @@ $film = [
         "tahun" => "1977",
         "genre" => "Drama, Action",
         "durasi" => "120 menit",
-        "sutradara" => "Sylvester Stallone.jpg"
+        "sutradara" => "Sylvester-Stallone.JPG"
     ],
     [
         "judul" => "ROCKY III",
@@ -46,7 +46,7 @@ $film = [
         "tahun" => "1982",
         "genre" => "Drama, Action",
         "durasi" => "100 menit",
-        "sutradara" => "Sylvester Stallone.jpg"
+        "sutradara" => "Sylvester-Stallone.JPG"
     ],
     [
         "judul" => "ROCKY IV",
@@ -54,7 +54,7 @@ $film = [
         "tahun" => "1985",
         "genre" => "Drama, Action",
         "durasi" => "93menit",
-        "sutradara" => "Sylvester Stallone.jpg"
+        "sutradara" => "Sylvester-Stallone.JPG"
     ],
     [
         "judul" => "Back To the Future Part II",
@@ -62,7 +62,7 @@ $film = [
         "tahun" => "1989",
         "genre" => "Drama, action",
         "durasi" => "108 menit",
-        "sutradara" => "Robert-Zemeckis.jpg"
+        "sutradara" => "Robert-Zemeckis.JPG"
     ],
     [
         "judul" => "Back To the Future Part II",
@@ -70,7 +70,7 @@ $film = [
         "tahun" => "1990",
         "genre" => "Drama, action",
         "durasi" => "118 menit",
-        "sutradara" => "Robert-Zemeckis.jpg"
+        "sutradara" => "Robert-Zemeckis.JPG"
     ],
     [
         "judul" => "Dragon Ball Super: Broly",
@@ -78,7 +78,7 @@ $film = [
         "tahun" => "2018",
         "genre" => "ACtion",
         "durasi" => "108 menit",
-        "sutradara" => "Tatsuya Nagamine.jpg"
+        "sutradara" => "Tatsuya-Nagamine.PNG"
     ]
 ];
 ?>
